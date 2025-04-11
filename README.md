@@ -7,9 +7,9 @@ DevJobs es una plataforma donde empresas pueden publicar ofertas laborales para 
 ## 🚀 Tecnologías Utilizadas
 
 - 🧬 PHP 8+
-- ⚙️ Laravel 10/11
+- ⚙️ Laravel 11
 - ⚡ Livewire
-- 💾 MySQL o MariaDB
+- 💾 MySQL
 - 🎨 Tailwind CSS
 - 🔐 Autenticación con Laravel Breeze
 - 🧠 Eloquent ORM
